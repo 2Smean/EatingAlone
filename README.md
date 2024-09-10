@@ -6,9 +6,11 @@
 
 </p>
 
-## 프로젝트 정보
+## 📱프로젝트 소개
 
 > 네이버 클라우드 데브옵스 3기 4조 - 세미 프로젝트<br>개발기간: 2023.12.04 - 2023.12.26
+
+- <나혼자 먹는다>는 자취생들이 서로 레시피를 제공하고 공유하고, 중고 거래 관련 커뮤니티 활동을 할 수 있도록 제작한 커뮤니티 기반 프로젝트입니다. 데브옵스 수업에서 학습한 Maven Project를 복습하며 활용하였습니다.
 
 ### 발표 자료
 
@@ -16,27 +18,21 @@
 
 ---
 
-## 팀원 소개
+## 👤팀원 소개
 
 ![contributors](https://github.com/user-attachments/assets/270de4e1-ab93-446b-b964-b092f8c59228)
 
 
-
-## 프로젝트 소개
-
-<나혼자 먹는다>는 자취생들이 서로 레시피를 제공하고 공유하고, 중고 거래 관련 커뮤니티 활동을 할 수 있도록 제작한 커뮤니티 기반 프로젝트입니다. 데브옵스 수업에서 학습한 Maven Project를 복습하며 활용하였습니다.
-
-
-## 아키텍쳐
+## 🏗️아키텍쳐
 ![Infra Architecture](https://github.com/user-attachments/assets/20e448f8-bbf8-4b8d-b8aa-8f93266d16ce)
 
-## ERD
+## 💽ERD
 
 <img width="899" alt="erd" src="https://github.com/user-attachments/assets/a23cc3e3-7969-4455-a887-969e609bd51c">
 
 
 
-## 기술 스택
+## ⚙️기술 스택
 
 ### Environment
 
@@ -64,7 +60,7 @@
 
 ---
 
-## 페이지 구성
+## 📊페이지 구성
 
 <details>
   <summary><b>홈 화면</b></summary>
@@ -236,7 +232,7 @@
 
 ---
 
-## 담당 서브 시스템 구현 기능
+## ✔️담당 서브 시스템 구현 기능
 
 #### 1\. 메인화면 구성
 
@@ -287,7 +283,7 @@
 <table>
     <tr>
       <td align=center>
-        <b>메인화면</b>
+        <b>회원가입</b>
       </td>
     </tr>
     <tr>
@@ -299,7 +295,7 @@
 
 #### 3\. 로그인/로그아웃 기능
 
-> 세션 쿠키에 대한 이해를 통해 로그인을 해야 등록기능을 사용할 수 있도록 구현.
+> 세션 쿠키에 대한 이해를 통해 로그인을 해야 커뮤니티 등록기능을 사용할 수 있도록 구현.
 
 <table>
     <tr>
@@ -453,7 +449,7 @@ public class LoginMemberArgumentResolver implements HandlerMethodArgumentResolve
 <table>
     <tr>
       <td align=center>
-        <b>메인화면</b>
+        <b>로그인 화면으로 리턴</b>
       </td>
     </tr>
     <tr>
@@ -465,7 +461,7 @@ public class LoginMemberArgumentResolver implements HandlerMethodArgumentResolve
 
 ---
 
-## 프로젝트 소감 및 의의
+## 💭프로젝트 소감 및 의의
 
 - 개인 Mini 프로젝트만 구현하다가 처음으로 해본 팀 프로젝트였습니다.
 차근차근 기초부터 쌓는다는 마음가짐으로 전반적인 화면 구성과 로그인을 담당하였습니다.
