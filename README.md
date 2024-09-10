@@ -27,10 +27,10 @@
 <나혼자 먹는다>는 자취생들이 서로 레시피를 제공하고 공유하고, 중고 거래 관련 커뮤니티 활동을 할 수 있도록 제작한 커뮤니티 기반 프로젝트입니다. 데브옵스 수업에서 학습한 Maven Project를 복습하며 활용하였습니다.
 
 
-# 아키텍쳐
+## 아키텍쳐
 ![Infra Architecture](https://github.com/user-attachments/assets/20e448f8-bbf8-4b8d-b8aa-8f93266d16ce)
 
-# ERD
+## ERD
 
 <img width="899" alt="erd" src="https://github.com/user-attachments/assets/a23cc3e3-7969-4455-a887-969e609bd51c">
 
